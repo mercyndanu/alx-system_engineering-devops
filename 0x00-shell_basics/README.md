@@ -1,3 +1,1 @@
-Display the contents list of your current direc
-
-tory.
+Display the contents list of your current directory.

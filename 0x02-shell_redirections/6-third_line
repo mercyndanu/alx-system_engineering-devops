@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -d"\" -f 3 iacta
+ihead -3 iacta | tail -1
